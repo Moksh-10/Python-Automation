@@ -1,7 +1,7 @@
 import requests
 
 api_endpoint="https://api.openai.com/v1/completions"
-api_key="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"
+
 
 headers={
     "Content-Type": "application/json",
